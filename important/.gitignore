@@ -1,0 +1,5 @@
+#comment is here
+*.txt
+hello2.*
+hello4.jpg
+!hello.txt
